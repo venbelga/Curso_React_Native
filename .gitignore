@@ -1,0 +1,41 @@
+# Node.js
+**/node_modules/
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
+**/pnpm-debug.log
+**/.pnpm-store
+
+# Build outputs
+**/android/app/build/
+**/android/build/
+**/ios/build/
+**/ios/Pods/
+**/ios/DerivedData/
+
+# React Native specific
+**/expo-debug.log
+**/web-build/
+
+# Bundler cache
+**/.metro-cache/
+**/dist/
+**/.expo/
+
+# IDEs and editors
+**/.idea/
+**/.vscode/
+**/*.swp
+**/.DS_Store
+
+# Test coverage
+**/coverage/
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.*.local
+
+# OS files
+**/Thumbs.db
+**/Desktop.ini
