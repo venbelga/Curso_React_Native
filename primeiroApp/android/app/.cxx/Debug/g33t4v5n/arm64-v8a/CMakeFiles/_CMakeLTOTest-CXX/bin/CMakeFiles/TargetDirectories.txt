@@ -1,0 +1,4 @@
+C:/Projetos/ReactNative/primeiroApp/android/app/.cxx/Debug/g33t4v5n/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Projetos/ReactNative/primeiroApp/android/app/.cxx/Debug/g33t4v5n/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Projetos/ReactNative/primeiroApp/android/app/.cxx/Debug/g33t4v5n/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Projetos/ReactNative/primeiroApp/android/app/.cxx/Debug/g33t4v5n/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

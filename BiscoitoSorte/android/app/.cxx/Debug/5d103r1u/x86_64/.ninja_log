@@ -1,0 +1,16 @@
+# ninja log v5
+5	46	0	C:/Projetos/ReactNative/BiscoitoSorte/android/app/.cxx/Debug/5d103r1u/x86_64/CMakeFiles/cmake.verify_globs	eec3eba2e582cdf5
+58	4124	7785147418894112	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/29a69865c614370bf14562545de93edc/jni/react/renderer/components/safeareacontext/States.cpp.o	cddb95bb3aea2254
+34	5369	7785147431141981	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6651f800739617cb8b0df10d2eeaef1a/renderer/components/safeareacontext/EventEmitters.cpp.o	4ac1d7350c3b957a
+50	6002	7785147437781702	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b94af8316d3aa65b54e28d5cd5fde284/safeareacontext/safeareacontextJSI-generated.cpp.o	2ac82bd3466bd4c0
+76	6270	7785147440379774	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5231de9c62b93c58f7183ee91c6eb269/generated/source/codegen/jni/safeareacontext-generated.cpp.o	1b1438392934e8c5
+21	7300	7785147450631266	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/364f6ebfffd4c83e9c8ac1b58b6131d5/components/safeareacontext/RNCSafeAreaViewState.cpp.o	8ed6c66b18abe52e
+1	7728	7785147454992749	CMakeFiles/appmodules.dir/OnLoad.cpp.o	51b0399ef8fd1e8b
+67	7881	7785147456563468	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7d2debaf0b199a0cb78e2d3bee649705/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	d6dce62a1ca69d7b
+28	8257	7785147460127591	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/29a69865c614370bf14562545de93edc/jni/react/renderer/components/safeareacontext/Props.cpp.o	353cb01aaf2f9dfb
+42	9781	7785147475418892	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a578f36c5547f6d67b12aade6d551a53/components/safeareacontext/ComponentDescriptors.cpp.o	8508056e60fe0c22
+15	10044	7785147478057871	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/364f6ebfffd4c83e9c8ac1b58b6131d5/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	d5ca3661a1b144f8
+10045	10330	7785147481238957	C:/Projetos/ReactNative/BiscoitoSorte/android/app/build/intermediates/cxx/Debug/5d103r1u/obj/x86_64/libreact_codegen_safeareacontext.so	a0ffaae88b645dfd
+7	11418	7785147491588992	CMakeFiles/appmodules.dir/C_/Projetos/ReactNative/BiscoitoSorte/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	35d0760d39b73abb
+11419	11552	7785147493551265	C:/Projetos/ReactNative/BiscoitoSorte/android/app/build/intermediates/cxx/Debug/5d103r1u/obj/x86_64/libappmodules.so	804158805ec2fdd2
+4	30	0	C:/Projetos/ReactNative/BiscoitoSorte/android/app/.cxx/Debug/5d103r1u/x86_64/CMakeFiles/cmake.verify_globs	eec3eba2e582cdf5

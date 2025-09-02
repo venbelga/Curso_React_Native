@@ -1,0 +1,1 @@
+C:\Projetos\ReactNative\BiscoitoSorte\android\app\build\intermediates\cxx\Debug\5d103r1u\obj\x86_64
