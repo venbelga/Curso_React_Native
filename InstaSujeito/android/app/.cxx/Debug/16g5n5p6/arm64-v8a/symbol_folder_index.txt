@@ -1,0 +1,1 @@
+C:\Projetos\ReactNative\InstaSujeito\android\app\build\intermediates\cxx\Debug\16g5n5p6\obj\arm64-v8a

@@ -1,0 +1,17 @@
+# ninja log v5
+3	41	0	C:/Projetos/ReactNative/InstaSujeito/android/app/.cxx/Debug/16g5n5p6/x86_64/CMakeFiles/cmake.verify_globs	46d35e2e7ab883d5
+73	4434	7786887872491386	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e54c57bc33b923411e3db33388b1fa4c/jni/react/renderer/components/safeareacontext/States.cpp.o	18a2843f50659dc5
+35	5169	7786887881855903	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8199b73122bd946680cf452151962fea/react/renderer/components/safeareacontext/EventEmitters.cpp.o	7847e8bf38176587
+64	5329	7786887883643770	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7212019156c9983ed671eaead89a75c6/components/safeareacontext/safeareacontextJSI-generated.cpp.o	204896324564bcd8
+83	5719	7786887887931451	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/cbf09f799b18046159120f6faa1586d5/generated/source/codegen/jni/safeareacontext-generated.cpp.o	856f29fb39fcd491
+14	6493	7786887895755773	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f2c7b4105a1d530160fd939218328999/components/safeareacontext/RNCSafeAreaViewState.cpp.o	b836979832096ffa
+8	6647	7786887897220304	CMakeFiles/appmodules.dir/OnLoad.cpp.o	25eb3fde2f5b2139
+54	6742	7786887898279988	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8199b73122bd946680cf452151962fea/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	870bcf41fda69b7
+28	6960	7786887900406263	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e54c57bc33b923411e3db33388b1fa4c/jni/react/renderer/components/safeareacontext/Props.cpp.o	781b70042245b4fa
+44	7342	7786887904193313	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7212019156c9983ed671eaead89a75c6/components/safeareacontext/ComponentDescriptors.cpp.o	a1d945a6e5f79de8
+21	7451	7786887905396003	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f2c7b4105a1d530160fd939218328999/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	8d2b0d92b4e47552
+7451	7865	7786887909545217	C:/Projetos/ReactNative/InstaSujeito/android/app/build/intermediates/cxx/Debug/16g5n5p6/obj/x86_64/libreact_codegen_safeareacontext.so	d05e9fdf4d012940
+1	8035	7786887911132045	CMakeFiles/appmodules.dir/C_/Projetos/ReactNative/InstaSujeito/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	edb4f599bc1b20c6
+8036	8335	7786887914299958	C:/Projetos/ReactNative/InstaSujeito/android/app/build/intermediates/cxx/Debug/16g5n5p6/obj/x86_64/libappmodules.so	f66f79ab1496244b
+3	41	0	C:/Projetos/ReactNative/InstaSujeito/android/app/.cxx/Debug/16g5n5p6/x86_64/CMakeFiles/cmake.verify_globs	46d35e2e7ab883d5
+9	68	0	C:/Projetos/ReactNative/InstaSujeito/android/app/.cxx/Debug/16g5n5p6/x86_64/CMakeFiles/cmake.verify_globs	46d35e2e7ab883d5

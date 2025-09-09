@@ -1,0 +1,17 @@
+# ninja log v5
+4	38	0	C:/Projetos/ReactNative/InstaSujeito/android/app/.cxx/Debug/16g5n5p6/armeabi-v7a/CMakeFiles/cmake.verify_globs	e6e2d5a0cb6f2e88
+59	4708	7786887654240495	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8199b73122bd946680cf452151962fea/react/renderer/components/safeareacontext/States.cpp.o	ed269089a65875d9
+50	6016	7786887667444769	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ed5be346ca88ac318892cc246262bd16/renderer/components/safeareacontext/EventEmitters.cpp.o	52b1c3ca71c506a7
+77	6248	7786887669919524	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8bc329cd6b2b71fa1a2b36ee4ac5a3ed/safeareacontext/safeareacontextJSI-generated.cpp.o	2d9e28e68e61afcc
+87	6275	7786887670230293	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/bc61e287e7837761425357310beae413/source/codegen/jni/safeareacontext-generated.cpp.o	a1728f1268f37730
+17	6384	7786887671337851	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f2c7b4105a1d530160fd939218328999/components/safeareacontext/RNCSafeAreaViewState.cpp.o	9b35fb3a4bbb62cb
+69	6687	7786887674381939	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ed5be346ca88ac318892cc246262bd16/renderer/components/safeareacontext/ShadowNodes.cpp.o	14ebf8a3b2840a52
+1	6990	7786887677376078	CMakeFiles/appmodules.dir/OnLoad.cpp.o	923371a9ab77cca6
+32	7425	7786887681697162	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8199b73122bd946680cf452151962fea/react/renderer/components/safeareacontext/Props.cpp.o	2af8e6606159d5aa
+25	7580	7786887683326977	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1e06aa1dd438fcc50490aafc3f56f984/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	b0c845fca5568a42
+40	7604	7786887683492189	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/7212019156c9983ed671eaead89a75c6/components/safeareacontext/ComponentDescriptors.cpp.o	f1d90809ce368b23
+7604	7959	7786887687143049	C:/Projetos/ReactNative/InstaSujeito/android/app/build/intermediates/cxx/Debug/16g5n5p6/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	48309434a3f50d59
+10	8319	7786887690622663	CMakeFiles/appmodules.dir/C_/Projetos/ReactNative/InstaSujeito/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bc952fd3d5a18bb1
+8320	8443	7786887692042272	C:/Projetos/ReactNative/InstaSujeito/android/app/build/intermediates/cxx/Debug/16g5n5p6/obj/armeabi-v7a/libappmodules.so	e40a663cd163e1e6
+4	57	0	C:/Projetos/ReactNative/InstaSujeito/android/app/.cxx/Debug/16g5n5p6/armeabi-v7a/CMakeFiles/cmake.verify_globs	e6e2d5a0cb6f2e88
+9	49	0	C:/Projetos/ReactNative/InstaSujeito/android/app/.cxx/Debug/16g5n5p6/armeabi-v7a/CMakeFiles/cmake.verify_globs	e6e2d5a0cb6f2e88
