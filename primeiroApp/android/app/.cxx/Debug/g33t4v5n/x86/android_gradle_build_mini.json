@@ -1,5 +1,6 @@
 {
   "buildFiles": [
+    "C:\\Projetos\\ReactNative\\primeiroApp\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Projetos\\ReactNative\\primeiroApp\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Projetos\\ReactNative\\primeiroApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
   ],
@@ -38,6 +39,11 @@
         "C:\\Users\\venan\\.gradle\\caches\\8.14.3\\transforms\\cba9d40536536f0777207a470c313f6b\\transformed\\react-android-0.81.1-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
         "C:\\Users\\venan\\.gradle\\caches\\8.14.3\\transforms\\cba9d40536536f0777207a470c313f6b\\transformed\\react-android-0.81.1-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so"
       ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "artifactName": "react_codegen_rnasyncstorage",
+      "abi": "x86",
+      "runtimeFiles": []
     }
   }
 }

@@ -1,27 +1,36 @@
 import React, { Component } from "react";
 import {
   View,
-  Text,
   StyleSheet,
-  Switch
+  Button,
+  Modal
 } from "react-native";
 
 export default class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      status: true
+      modalVisible: false
     };
+
+    this.entrar = this.entrar.bind(this);
   }
+
+  entrar() {
+    this.setState({ modalVisible: true });
+   }
 
   render() {
     return (
       <View style={styles.container}>
-        <Switch
-          value={this.state.status}
-          onValueChange={(valor) => this.setState({ status: valor })}
-        />
-        <Text>{this.state.status ? 'Ativo' : 'Inativo'}</Text>
+        <Button title="Entrar" onPress={this.entrar} />
+
+        <Modal animationType="slide" visible={this.state.modalVisible}>
+          <View style={{backgroundColor: '#292929', flex: 1}}>
+            <Text style={{color: '#fff', fontSize: 28}}>Seja Bem-vindo</Text>
+            <Button title="Sair" onPress={() => this.setState({ modalVisible: false })} />
+          </View>
+        </Modal>
       </View>
     );
   }
@@ -29,6 +38,9 @@ export default class App extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 15
-  }
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "#DDD",
+  },
 });

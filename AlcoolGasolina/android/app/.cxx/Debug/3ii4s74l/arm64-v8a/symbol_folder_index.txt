@@ -1,0 +1,1 @@
+C:\Projetos\ReactNative\AlcoolGasolina\android\app\build\intermediates\cxx\Debug\3ii4s74l\obj\arm64-v8a

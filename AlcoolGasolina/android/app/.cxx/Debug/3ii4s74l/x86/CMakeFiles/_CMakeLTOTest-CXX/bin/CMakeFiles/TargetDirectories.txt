@@ -1,0 +1,4 @@
+C:/Projetos/ReactNative/AlcoolGasolina/android/app/.cxx/Debug/3ii4s74l/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Projetos/ReactNative/AlcoolGasolina/android/app/.cxx/Debug/3ii4s74l/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Projetos/ReactNative/AlcoolGasolina/android/app/.cxx/Debug/3ii4s74l/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Projetos/ReactNative/AlcoolGasolina/android/app/.cxx/Debug/3ii4s74l/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
