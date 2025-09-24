@@ -1,46 +1,94 @@
-import React, { Component } from "react";
+import React,
+{ useState, useEffect, useMemo, useRef } from "react";
 import {
   View,
+  Text,
   StyleSheet,
-  Button,
-  Modal
+  TouchableOpacity,
+  TextInput
 } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
-export default class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      modalVisible: false
-    };
+export default function App() {
+  const [nome, setNome] = useState('Venancio');
+  const [input, setInput] = useState('');
+  const nomeInput = useRef(null);
 
-    this.entrar = this.entrar.bind(this);
+  useEffect(() => {
+    async function getStorage() {
+      const nomeStorage = await AsyncStorage.getItem('nome');
+
+      if (nomeStorage) {
+        setNome(nomeStorage);
+      }
+    }
+
+    getStorage();
+  }, []);
+
+  useEffect(() => {
+    async function saveStorage() {
+      await AsyncStorage.setItem('nome', nome);
+    }
+
+    saveStorage();
+  }, [nome])
+
+  function alteraNome() {
+    setNome(input);
+    setInput('');
   }
 
-  entrar() {
-    this.setState({ modalVisible: true });
-   }
+  const letrasNome = useMemo(() => {
+    console.log('mudou');
+    return nome.length;
+  }, [nome]);
 
-  render() {
-    return (
-      <View style={styles.container}>
-        <Button title="Entrar" onPress={this.entrar} />
-
-        <Modal animationType="slide" visible={this.state.modalVisible}>
-          <View style={{backgroundColor: '#292929', flex: 1}}>
-            <Text style={{color: '#fff', fontSize: 28}}>Seja Bem-vindo</Text>
-            <Button title="Sair" onPress={() => this.setState({ modalVisible: false })} />
-          </View>
-        </Modal>
-      </View>
-    );
+  function novoNome() {
+    nomeInput.current.focus();
   }
+
+
+  return (
+    <View style={styles.container}>
+      <TextInput
+        placeholder="Digite seu nome"
+        value={input}
+        onChangeText={(texto) => setInput(texto)}
+        ref={nomeInput}
+      />
+
+      <TouchableOpacity style={styles.btn} onPress={alteraNome}>
+        <Text style={styles.btnText}>Alterar Nome</Text>
+      </TouchableOpacity>
+
+      <Text style={styles.texto}>{nome}</Text>
+
+      <Text style={styles.texto}>Tem {letrasNome} letras</Text>
+
+       <TouchableOpacity style={styles.btn} onPress={novoNome}>
+        <Text style={styles.btnText}>Novo Nome</Text>
+      </TouchableOpacity>
+    </View>
+  )
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#DDD",
+    marginTop: 25,
   },
+  texto: {
+    color: '#000',
+    fontSize: 35
+  },
+  btn: {
+    backgroundColor: '#222',
+    alignItems: 'center',
+    height: 40,
+  },
+  btnText: {
+    color: '#FFF',
+    fontSize: 15,
+  }
 });

@@ -1,0 +1,16 @@
+# ninja log v5
+8	65	0	C:/Projetos/ReactNative/listaFilmes/android/app/.cxx/Debug/6l4br214/arm64-v8a/CMakeFiles/cmake.verify_globs	a21afb870d12ea40
+80	14861	7804447476296878	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/aeed66ab5cf440ac88ab95d2e6c99707/jni/react/renderer/components/safeareacontext/States.cpp.o	5413831f0fa0af7f
+24	15512	7804447484036844	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/77175df0ab64482836d19ba016f1df7f/renderer/components/safeareacontext/EventEmitters.cpp.o	238b2c71d638c089
+117	16055	7804447489686766	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/d6199944a73431a3b734f2977e3f0045/source/codegen/jni/safeareacontext-generated.cpp.o	882fb5eb4445f63d
+56	16147	7804447490382350	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/46d9b70572de11b637f7e45805f36a99/safeareacontext/safeareacontextJSI-generated.cpp.o	9db10ac921aeba75
+106	17716	7804447506106742	CMakeFiles/appmodules.dir/OnLoad.cpp.o	76f2cd12cb113507
+2	18367	7804447512939893	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ab3de82431588ec4a62c5a0bc95b3046/components/safeareacontext/RNCSafeAreaViewState.cpp.o	8b6ea031e5848431
+66	18648	7804447515582270	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8893b88edf8a5bf7ebfd4bcd9a04febb/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	4181948ca261464d
+46	19481	7804447523870279	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/aeed66ab5cf440ac88ab95d2e6c99707/jni/react/renderer/components/safeareacontext/Props.cpp.o	e7b64b89a440f437
+34	20576	7804447534307565	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/19a0b6528cf2f9cd6d8f8cf09b8362f0/components/safeareacontext/ComponentDescriptors.cpp.o	789342fea59b1d1f
+92	21897	7804447547809258	CMakeFiles/appmodules.dir/C_/Projetos/ReactNative/listaFilmes/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	edfe809ce0d01519
+13	21954	7804447548584043	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ab3de82431588ec4a62c5a0bc95b3046/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	8892b51c69808f3b
+21955	22545	7804447554813518	C:/Projetos/ReactNative/listaFilmes/android/app/build/intermediates/cxx/Debug/6l4br214/obj/arm64-v8a/libreact_codegen_safeareacontext.so	af1157ae9067aaee
+22545	22705	7804447556530329	C:/Projetos/ReactNative/listaFilmes/android/app/build/intermediates/cxx/Debug/6l4br214/obj/arm64-v8a/libappmodules.so	fb899bd35e291ffa
+28	406	0	C:/Projetos/ReactNative/listaFilmes/android/app/.cxx/Debug/6l4br214/arm64-v8a/CMakeFiles/cmake.verify_globs	a21afb870d12ea40
