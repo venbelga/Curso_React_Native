@@ -1,0 +1,17 @@
+# ninja log v5
+5	227	0	C:/Projetos/ReactNative/buscadorCEP/android/app/.cxx/Debug/164k1h3n/arm64-v8a/CMakeFiles/cmake.verify_globs	acac2cdfcd8d7893
+63	16995	7805398844513981	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0bb509e40f1fc8c10ccc87d5bd44dfd8/jni/react/renderer/components/safeareacontext/States.cpp.o	ee94c6ad674dacb2
+51	17883	7805398853638168	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f8a36f7b11197e5dc322c7a42182e7ab/renderer/components/safeareacontext/EventEmitters.cpp.o	a8a7475751f46358
+84	18365	7805398858920986	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b7145d8ee46eef8e742d59e2cec59f8b/safeareacontext/safeareacontextJSI-generated.cpp.o	10546e8d0175934e
+94	18396	7805398859212950	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e278dee84fc8a35ac814f8998b604468/source/codegen/jni/safeareacontext-generated.cpp.o	7842ca26593955f3
+115	20158	7805398876478768	CMakeFiles/appmodules.dir/OnLoad.cpp.o	207ab2ec9013dc71
+2	20546	7805398880763504	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/57371e209b436155da2ac36ef1463d19/components/safeareacontext/RNCSafeAreaViewState.cpp.o	90b989fd8e784dc7
+74	20756	7805398882914713	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f99c9fb4aa8fed3f5316f30332f7a44d/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	959a5ef1b641655e
+25	21576	7805398890946261	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/0bb509e40f1fc8c10ccc87d5bd44dfd8/jni/react/renderer/components/safeareacontext/Props.cpp.o	de8bd958e1575310
+40	22681	7805398901946598	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/72263b1d171a0ccd6885b4f9ed6bb755/components/safeareacontext/ComponentDescriptors.cpp.o	edf1c2e25a6788fa
+13	23918	7805398914291962	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/57371e209b436155da2ac36ef1463d19/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	b73c4d30496f8cea
+103	23953	7805398914125071	CMakeFiles/appmodules.dir/C_/Projetos/ReactNative/buscadorCEP/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f8fa8504dc252956
+23921	24501	7805398920563552	C:/Projetos/ReactNative/buscadorCEP/android/app/build/intermediates/cxx/Debug/164k1h3n/obj/arm64-v8a/libreact_codegen_safeareacontext.so	229848abcd5eba9c
+24501	24659	7805398922224309	C:/Projetos/ReactNative/buscadorCEP/android/app/build/intermediates/cxx/Debug/164k1h3n/obj/arm64-v8a/libappmodules.so	d4cf40ef18c9074c
+28	454	0	C:/Projetos/ReactNative/buscadorCEP/android/app/.cxx/Debug/164k1h3n/arm64-v8a/CMakeFiles/cmake.verify_globs	acac2cdfcd8d7893
+40	238	0	C:/Projetos/ReactNative/buscadorCEP/android/app/.cxx/Debug/164k1h3n/arm64-v8a/CMakeFiles/cmake.verify_globs	acac2cdfcd8d7893

@@ -1,0 +1,1 @@
+C:\Projetos\ReactNative\buscadorCEP\android\app\build\intermediates\cxx\Debug\164k1h3n\obj\armeabi-v7a
