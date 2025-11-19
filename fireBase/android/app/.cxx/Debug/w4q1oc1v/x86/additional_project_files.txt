@@ -1,0 +1,7 @@
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\react\renderer\components\rnasyncstorage\ComponentDescriptors.cpp.o
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\react\renderer\components\rnasyncstorage\EventEmitters.cpp.o
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\react\renderer\components\rnasyncstorage\Props.cpp.o
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\react\renderer\components\rnasyncstorage\ShadowNodes.cpp.o
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\react\renderer\components\rnasyncstorage\States.cpp.o
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\react\renderer\components\rnasyncstorage\rnasyncstorageJSI-generated.cpp.o
+C:\Projetos\ReactNative\fireBase\android\app\.cxx\Debug\w4q1oc1v\x86\rnasyncstorage_autolinked_build\CMakeFiles\react_codegen_rnasyncstorage.dir\rnasyncstorage-generated.cpp.o

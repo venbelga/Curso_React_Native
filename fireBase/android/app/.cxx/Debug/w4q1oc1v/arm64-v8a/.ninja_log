@@ -1,0 +1,25 @@
+# ninja log v5
+1	29	0	C:/Projetos/ReactNative/fireBase/android/app/.cxx/Debug/w4q1oc1v/arm64-v8a/CMakeFiles/cmake.verify_globs	5713b1c1a66c6cb3
+77	13731	7831824888433925	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ba16cfdf54fdda2c12120439a08495fa/components/safeareacontext/safeareacontextJSI-generated.cpp.o	d6d012e191a2f0d
+38	16597	7831824917148148	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1d61ac5feb81c7dd765e515a2d7df763/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	3d537ab0ca0a0b10
+90	12774	7831824877975441	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4eac35af9f3aa8c26c2640900511771a/jni/react/renderer/components/safeareacontext/States.cpp.o	7fa1edb43ce7a0f3
+103	13598	7831824887146498	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/68c94e687cd15003f8ccccee7827192d/generated/source/codegen/jni/safeareacontext-generated.cpp.o	a6031d5163fbfd4c
+48	13409	7831824885102830	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/286128b88362b7a9f3853af852217c5c/react/renderer/components/safeareacontext/EventEmitters.cpp.o	80394f0a4cd234e3
+17	15469	7831824905952745	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a0f99f5697699a6faab3d9058f32d7c3/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	d0b3600c068c558d
+55	13465	7851630890698090	CMakeFiles/appmodules.dir/OnLoad.cpp.o	dc1cb76a225d457f
+26	16055	7831824911752149	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4eac35af9f3aa8c26c2640900511771a/jni/react/renderer/components/safeareacontext/Props.cpp.o	c38b5e96a83abebb
+65	15641	7831824907688348	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/286128b88362b7a9f3853af852217c5c/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	d22be08784cc81b4
+15795	16371	7851630919836274	C:/Projetos/ReactNative/fireBase/android/app/build/intermediates/cxx/Debug/w4q1oc1v/obj/arm64-v8a/libappmodules.so	998f312247564ac3
+63	15794	7851630913966296	CMakeFiles/appmodules.dir/C_/Projetos/ReactNative/fireBase/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	60d4468c03722de
+3	17235	7831824923546185	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/195202f94cfbff1baf08d46d8f22a177/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	46f230b19856b8dd
+17236	17569	7831824926978368	C:/Projetos/ReactNative/fireBase/android/app/build/intermediates/cxx/Debug/w4q1oc1v/obj/arm64-v8a/libreact_codegen_safeareacontext.so	8394cf5e37fe946b
+121	9406	7851608395031341	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	95b6577c80226d28
+203	1625	7851634309009159	build.ninja	4113efd99491fffa
+215	9397	7851608394752383	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	327adc17e7c93297
+63	10171	7851608402692768	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	3e1a8b2fd9f81a51
+56	10206	7851608402973090	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	bd850823bd5c0d59
+139	10338	7851608404397471	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	155c4603bf2d7f7b
+111	11152	7851608412540290	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	9212312c17e2ef7d
+81	11270	7851608413702266	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	e150e47d8c7f8b6d
+2	35	0	C:/Projetos/ReactNative/fireBase/android/app/.cxx/Debug/w4q1oc1v/arm64-v8a/CMakeFiles/cmake.verify_globs	5713b1c1a66c6cb3
+9	125	0	C:/Projetos/ReactNative/fireBase/android/app/.cxx/Debug/w4q1oc1v/arm64-v8a/CMakeFiles/cmake.verify_globs	5713b1c1a66c6cb3
