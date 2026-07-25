@@ -1,0 +1,1 @@
+C:\Projetos\Curso_React_Native\Financas\android\app\build\intermediates\cxx\Debug\47dt316h\obj\x86_64
